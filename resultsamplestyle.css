@@ -1,0 +1,39 @@
+body  {
+	margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.div1{
+	text-align: center;
+	width: 100%;
+	padding: 15px;
+}
+* {box-sizing: border-box}
+
+input[type=text] {
+  width: 30%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border-color: coral;
+  background: #f1f1f1;
+}
+.label{
+  text-align: center;
+  border: none;
+}
+
+.label1{
+  text-align: center;
+  border: none;
+}
+.submitbtn {
+	width: 10%;
+	padding: 10px;
+	margin: 5px 0 22px 0;
+	background: #f1f1f1;
+	border-color: coral;
+	display: inline-block;
+}
+button:hover {
+  opacity:1;
+}
